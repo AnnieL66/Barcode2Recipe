@@ -8,4 +8,4 @@ We're first-time hackers and we're very excited to be here!
 * Jessica Cheng
 * Becca Malcom
 * Funing Yang
-* Yaxin Liu
+* Yaxin (Annie) Liu
